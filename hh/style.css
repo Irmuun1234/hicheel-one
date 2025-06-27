@@ -1,3 +1,5 @@
+
+<style class="css"></style>
 .body {
   justify-content: center;
   display: flex;
@@ -86,5 +88,3 @@ button:hover {
 .tovch{
   gap: 30px;
 }
-
-
